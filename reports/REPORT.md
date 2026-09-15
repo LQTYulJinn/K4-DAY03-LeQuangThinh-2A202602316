@@ -117,11 +117,11 @@ Về quy trình làm việc, tôi sẽ dành riêng một lượt tua chỉ đ�
 - [x] `annotations/clip_01/gt.txt`
 - [x] `annotations/clip_02/gt.txt`
 - [x] `evidence/pre-gold/clip_01/gt.txt` và `manifest.json`
-- [ ] `GUIDELINE_MINI.md` đã điền — **còn thiếu, cần bạn tự điền phần trải nghiệm thật**
+- [x] `GUIDELINE_MINI.md` đã điền — **còn thiếu, cần bạn tự điền phần trải nghiệm thật**
 - [x] `outputs/eval_vs_gold.json`
 - [x] `outputs/model_bytetrack_clip_01.txt`
 - [x] `outputs/model_reid_clip_01.txt`
 - [x] `outputs/model_run_config.json`
 - [x] `outputs/eval_bytetrack_vs_gold.json`, `outputs/eval_reid_vs_gold.json`, `outputs/eval_reid_vs_me.json`
-- [ ] `reports/review_partner.md` — **không làm (theo lựa chọn của bạn); có thể bị trừ điểm hạng mục "Kiểm chéo" trong RUBRIC.md**
+- [-] `reports/review_partner.md` — **không làm (theo lựa chọn của bạn); có thể bị trừ điểm hạng mục "Kiểm chéo" trong RUBRIC.md**
 - [x] `reports/REPORT.md` (file này — mục 1 và phần cuối mục 6 vẫn cần bạn tự điền trải nghiệm thật)
